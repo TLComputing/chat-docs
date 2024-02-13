@@ -1,0 +1,40 @@
+site_name: Chat
+site_description: Documentação do Chat
+site_author: Arthur,
+#site_url: http://enderecodoseusite.com
+
+# Configuração do diretório de documentos (opcional se estiver usando a estrutura padrão 'docs/')
+docs_dir: docs
+
+# Configuração do tema (Descomente e ajuste conforme necessário)
+theme:
+  name: readthedocs
+  # logo: 'imagens/logo.png'
+  # favicon: 'imagens/favicon.ico'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+
+# Plugins (Descomente se precisar de plugins específicos)
+# plugins:
+#   - search
+#   - minify:
+
+# Navegação - ajuste conforme a estrutura do seu projeto
+nav:
+  - Home: index.md
+  # - Sobre: sobre.md
+  # - Guia:
+  #   - Configuração: guia/configuracao.md
+  #   - Uso: guia/uso.md
+  # - Referência:
+  #   - API: referencia/api.md
+  #   - Comandos: referencia/comandos.md
+
+# Configurações adicionais de personalização (opcional)
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/TLComputing'
+    # - type: 'twitter'
+    #   link: 'https://twitter.com/seuusuario'

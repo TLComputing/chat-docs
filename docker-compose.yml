@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  mkdocs:
+    build: .
+    container_name: docs
+    volumes:
+      - .:/docs
+    ports:
+      - "8000:8000"

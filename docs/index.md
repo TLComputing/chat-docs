@@ -1,0 +1,3 @@
+# Visão Geral
+
+Este projeto visa o desenvolvimento de um sistema de chat, com o intuito principal de servir como um meio de estudo e aprofundamento no tema de comunicações em tempo real e sistemas de mensageria. O foco está em explorar as tecnologias e metodologias envolvidas na criação de aplicativos de mensagens instantâneas, bem como entender os desafios associados ao desenvolvimento de software interativo e responsivo.
