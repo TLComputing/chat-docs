@@ -2,7 +2,7 @@ FROM python:3.9-slim
 
 WORKDIR /docs
 
-RUN pip install mkdocs
+RUN pip install -r requirements.txt
 
 COPY . /docs
 

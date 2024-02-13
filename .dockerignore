@@ -1,0 +1,30 @@
+# Arquivos de configuração do ambiente virtual
+venv/
+.env
+python_version
+
+# Diretório de build do MkDocs
+/site
+
+# Arquivos de cache
+.cache/
+__pycache__/
+*.pyc
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Node modules
+node_modules/
+
+# Diretórios de documentos desnecessários para a build
+docs/src/
+docs/test/
