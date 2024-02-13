@@ -23,6 +23,7 @@ theme:
 # Navegação - ajuste conforme a estrutura do seu projeto
 nav:
   - Home: index.md
+  - Arquitetura: arch.md
   # - Sobre: sobre.md
   # - Guia:
   #   - Configuração: guia/configuracao.md
